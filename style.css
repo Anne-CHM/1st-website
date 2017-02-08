@@ -1,0 +1,38 @@
+/* The following solution maybe better */
+body {
+  margin-top: 60px;
+}
+
+#en-name {
+  font-family: 'Bungee Shade', cursive;
+  font-weight: normal;
+}
+
+h1 {
+  font-family: monospace;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: Helvetica;
+}
+
+p {
+  font-family: Helvetica; 
+}
+
+li {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#reference ul li{
+  font-family: Helvetica;
+  font-weight: normal;
+  font-size: 15px;
+}
+
+blockquote {
+  font-family: Helvetica;
+  font-weight: 300;
+}
